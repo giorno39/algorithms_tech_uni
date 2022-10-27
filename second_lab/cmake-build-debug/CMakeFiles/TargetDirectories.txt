@@ -1,0 +1,3 @@
+/home/Giorno/algorithms_tu/second_lab/cmake-build-debug/CMakeFiles/second_lab.dir
+/home/Giorno/algorithms_tu/second_lab/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/Giorno/algorithms_tu/second_lab/cmake-build-debug/CMakeFiles/rebuild_cache.dir
