@@ -1,0 +1,3 @@
+/home/Giorno/algorithms_tu/6th_term_paper/cmake-build-debug/CMakeFiles/6th_term_paper.dir
+/home/Giorno/algorithms_tu/6th_term_paper/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/Giorno/algorithms_tu/6th_term_paper/cmake-build-debug/CMakeFiles/rebuild_cache.dir
